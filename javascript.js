@@ -94,7 +94,7 @@ console.log(duplicateArray);
 
 
 //EXERCISE 4
-
+/*
 var catObj = {
     tiredness : 20,
     loneliness : 3,
@@ -137,3 +137,6 @@ function catstatus(catObj)
 }
 
 catstatus(catObj);
+*/
+
+//EXERCISE 5
